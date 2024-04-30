@@ -16,7 +16,7 @@ The application allows users to shorten their links, making them look shorter an
 ## Development Instructions for Backend
 
 - `git clone https://github.com/brkozkn999/URLShortenerAppv2.git`
-- `cd URLShortenerAppv2, cd backend`
+- `cd urlshortenerv2, cd backend`
 - open with favorite editor, or
 - `mvnw spring-boot:run`
 - open http://localhost:8080
@@ -25,7 +25,7 @@ The application allows users to shorten their links, making them look shorter an
 ## Development Instructions for Frontend
 
 - `git clone https://github.com/brkozkn999/URLShortenerAppv2.git`
-- `cd URLShortenerAppv2, cd frontend`
+- `cd urlshortenerv2, cd frontend`
 - open with favorite editor, or
 - `npm install, npm run build, ng serve`
 - open http://localhost:4200
